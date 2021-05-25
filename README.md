@@ -1,4 +1,4 @@
-# Stres-Tester 😎
+# Stress-Tester 😎
 When we take part in a contest or solve some problem sometimes we miss some corner cases, which will lead to wrong answers or penalities. 
 Its very difficult to manually try running on random testcases, and it is time consuming too.
 
